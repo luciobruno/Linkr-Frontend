@@ -1,4 +1,6 @@
-# projeto19-linkr-front
+# Linkr Front-end
+
+# Sobre este Projeto
 
 # Tecnologias
 
@@ -11,3 +13,5 @@ As seguintes ferramentas e estruturas foram utilizadas na construção deste pro
 [<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />](https://code.visualstudio.com)
 [<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />](https://styled-components.com)
 [<img src="https://img.shields.io/badge/axios%20-%2320232a.svg?style=for-the-badge&color=informational" />](https://axios-http.com/ptbr/docs/intro)
+
+# Como executar
